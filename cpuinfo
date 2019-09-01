@@ -1,0 +1,21 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 15
+model name	: Intel(R) Xeon(R) CPU           X3210  @ 2.13GHz
+stepping	: 11
+microcode	: 0xba
+cpu MHz		: 2133.409
+cache size	: 4096 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc arch_perfmon pebs bts nopl tsc_reliable nonstop_tsc cpuid aperfmperf pni ssse3 cx16 x2apic tsc_deadline_timer hypervisor lahf_lm pti tsc_adjust dtherm
+
